@@ -1,3 +1,17 @@
+body {
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background-color: #c84821;
+  color: white;
+  padding: 20px;
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
 /*  Credit to Mr. Polywhirl at https://stackoverflow.com/questions/66989506/filtering-html-table-columns-with-select-dropdowns */
 
 .filter-table {
