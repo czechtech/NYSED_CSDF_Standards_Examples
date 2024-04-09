@@ -1,0 +1,29 @@
+/*  Credit to Mr. Polywhirl at https://stackoverflow.com/questions/66989506/filtering-html-table-columns-with-select-dropdowns */
+
+.filter-table {
+  border-collapse: collapse;
+}
+
+.filter-table {
+  border: thin solid grey;
+}
+
+.filter-table thead {
+  border-bottom: thin solid grey;
+}
+
+.filter-table th, .filter-table td {
+  padding: 0.25em 0.5em;
+}
+
+.filter-table th {
+  background: #CCC;
+}
+
+.filter-table tbody tr:nth-child(even) {
+  background: #EEE;
+}
+
+.hidden-row {
+  display: none;
+}
